@@ -2,5 +2,8 @@ questo è un testo
 che ora è stato modificiato
 adesso nuovamente
 modificato di nuovo dopo hotfix
+<<<<<<< HEAD
 aggiunto feature_x
 seconda modidica con feature_x
+modificato feature_x
+terza modifica feature_x
